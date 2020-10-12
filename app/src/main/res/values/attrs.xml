@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingVIew">
+        <attr name="CircleBgColor" format="color|reference"/>
+        <attr name="CircleFgColor" format="color|reference"/>
+        <attr name="android:textColor"/>
+    </declare-styleable>
+</resources>
